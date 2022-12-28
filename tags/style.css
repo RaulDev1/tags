@@ -1,0 +1,33 @@
+body {
+  height: 2000px;
+  background-color:rgb(155, 129, 1)
+  
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+a {
+    text-align: center;
+    font-size: 30px;
+}
+
+.btn1 {
+height: 50px;
+cursor: pointer;
+}
+
+.btn2 {
+  margin-left: 3%;
+  position: center;
+  border-radius: 49%;
+  background-color: yellowgreen;
+  cursor: pointer;
+}
+
+img {
+  width: 200px;
+  margin-left: -15%;
+}
